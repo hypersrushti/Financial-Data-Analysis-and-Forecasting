@@ -1,4 +1,4 @@
-# 📈 Financial Data Analysis and Forecasting: [Insert Company Name] Stock
+# 📈 Financial Data Analysis and Forecasting: Stock
 
 [![Python](https://img.shields.io/badge/Language-Python-blue)](https://www.python.org/)
 [![Data Analysis](https://img.shields.io/badge/Analysis-Time%20Series%20%7C%20EDA-darkgreen)](https://en.wikipedia.org/wiki/Time_series_analysis)
@@ -8,7 +8,7 @@
 
 ## 🚀 Executive Summary
 
-Successfully completed an end-to-end financial data analysis and time-series forecasting project on **[Insert Company Name]'s** historical stock and financial statement data (2015-2024). The project aimed to identify key performance trends and predict future stock prices using advanced statistical models.
+Successfully completed an end-to-end financial data analysis and time-series forecasting project on  historical stock and financial statement data (2015-2024). The project aimed to identify key performance trends and predict future stock prices using advanced statistical models.
 
 ### Key Achievements:
 
@@ -32,7 +32,6 @@ The primary objectives were to:
 
 ## 📊 Key Visualizations and Trends
 
-*(Note: The images below assume you place your generated PNG files into a subfolder named **`visuals/`**)*
 
 ### 1. Stock Price Trend and Momentum
 
